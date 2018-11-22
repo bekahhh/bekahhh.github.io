@@ -1,11 +1,11 @@
 # Site settings
 author: Bekah Hughey
-title: 
+title: The Bekah Report
 header-img: img/home-bg.png
 email: blooh90@gmail.com
 copyright_name: Bekah Hughey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My programming process 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bekahhh
